@@ -1,5 +1,6 @@
 # ThT-aggregation-assay-analysis
 A jupyter notebook allowing to determine curve parameters by fitting using logistic curve as a model.
+
 Short description:
 Aggregation experiments can be performed using Thioflavin T as a probe to follow in real time the aggregation. In order to analyse the data from different conditions in a fast and reproducible manner a program was written. By fitting the curves to the logistic function, it is possible to extract kinetic parameters from the curves to facilitate comparisons. 
 
